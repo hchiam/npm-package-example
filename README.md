@@ -10,3 +10,7 @@ Example published package:
 
 * https://www.npmjs.com/package/hchiam-npm-package-example
 * https://unpkg.com/hchiam-npm-package-example
+
+Live example usage (using browser build):
+
+https://codepen.io/hchiam/pen/VwwgZEm
