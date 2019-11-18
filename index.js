@@ -1,3 +1,3 @@
-export default function awesomeFunction(value) {
-  return value + " is AWESOME!!!";
+export default function exampleFunction() {
+  return 'example function works';
 }

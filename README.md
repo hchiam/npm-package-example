@@ -1,14 +1,12 @@
-# npm-package-example
+# NPM Package Example
 
-Example of npm package.
+1. Edit [`package.json`](https://github.com/hchiam/npm-package-example/blob/master/package.json) fields (e.g., name, version, author, description, etc.).
+2. Makes sure the `main` field in [`package.json`](https://github.com/hchiam/npm-package-example/blob/master/package.json) points to the entry point `index.js`.
+3. The `unpkg` field is for browser build.
+4. In CLI: login to NPM with `npm login` command.
+5. `npm publish`
 
-1.  Create `package.json` and fill `name` and `version` field.
-2.  Add your script and `main` field in `package.json` to point the entry point.
-3.  You may want to fill `unpkg` field for browser build.
-4.  Login to npm with `npm login` command.
-5.  `npm publish`
+Example published package:
 
-You will see published package on:
-
-* https://www.npmjs.com/package/ktsn-npm-package-example
-* https://unpkg.com/ktsn-npm-package-example
+* https://www.npmjs.com/package/hchiam-npm-package-example
+* https://unpkg.com/hchiam-npm-package-example

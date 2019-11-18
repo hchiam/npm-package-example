@@ -1,3 +1,3 @@
-window.awesomeFunction = function awesomeFunction(value) {
-  return value + " is AWESOME!!!";
+window.exampleFunction = function exampleFunction() {
+  return 'example function works';
 };
