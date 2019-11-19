@@ -1,5 +1,9 @@
 # NPM Package Example
 
+Just one of the things I'm learning. https://github.com/hchiam/learning
+
+This repo is a fork of https://github.com/ktsn/npm-package-example
+
 To publish your own NPM package:
 
 1. Fork this repo.
