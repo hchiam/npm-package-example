@@ -1,10 +1,13 @@
 # NPM Package Example
 
-1. Edit [`package.json`](https://github.com/hchiam/npm-package-example/blob/master/package.json) fields (e.g., name, version, author, description, etc.).
-2. Makes sure the `main` field in [`package.json`](https://github.com/hchiam/npm-package-example/blob/master/package.json) points to the entry point `index.js`.
-3. The `unpkg` field is for browser build.
-4. In CLI: login to NPM with `npm login` command.
-5. `npm publish`
+To publish your own NPM package:
+
+1. Fork this repo.
+2. Edit [`package.json`](https://github.com/hchiam/npm-package-example/blob/master/package.json) fields (e.g., name, version, author, description, etc.).
+3. Makes sure the `main` field in [`package.json`](https://github.com/hchiam/npm-package-example/blob/master/package.json) points to the entry point `index.js`, or whatever you file/filename you choose.
+4. The `unpkg` field is for browser build.
+5. In CLI: login to NPM with `npm login` command.
+6. `npm publish`
 
 Example published package:
 
