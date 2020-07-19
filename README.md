@@ -21,3 +21,7 @@ Example published package:
 Live example usage (using browser build):
 
 https://codepen.io/hchiam/pen/VwwgZEm
+
+You might also like:
+
+https://github.com/hchiam/learning-github-packages
